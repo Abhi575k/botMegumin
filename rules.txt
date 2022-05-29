@@ -1,0 +1,7 @@
+Welcome to the "WebDev & UNIX Command Line" Discord Server,
+Here are some rules and Information to begin with :
+:one: Treat everyone with respect. Absolutely no harassment, sexism, racism, or hate speech will be tolerated.
+:two: No offensive usernames are allowed. So, anyone with such usernames are requested to change them ASAP.
+:three: For, any type of discussion that is irrelevant to the project work, please use the channel off-topic .
+:four: For Role-Claim purposes please send a message on the channel role-claim in the format:
+<iitkusername> <iitk role no.>

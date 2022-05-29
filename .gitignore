@@ -1,0 +1,5 @@
+.env
+__pycache__
+discord.log
+ffmpeg.py
+temp.py
